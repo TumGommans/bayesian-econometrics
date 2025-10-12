@@ -1,0 +1,3 @@
+nos: 50000 # number of valid simulations
+nob: 1000  # number of burn-in 
+nod: 10    # thin value

@@ -1,2 +1,2 @@
 # bayesian-econometrics
-Implementing a Gibbs sample for a bayesian regression model
+Implementing a Gibbs sampler for a non-linear bayesian regression model
